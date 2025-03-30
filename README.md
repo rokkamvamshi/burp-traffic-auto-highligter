@@ -1,7 +1,7 @@
-# Burp Auto Highlight
+# Burp Traffic Auto Highlight
 
 ## 📌 About
-**Burp Auto Highlight** is just a small Burp Suite extension that automatically highlights HTTP requests based on custom headers. This helps security researchers differentiate traffic from multiple browsers. Just a vibe code!
+**Burp Auto Highlight** is just a small Burp Suite extension that automatically highlights HTTP requests based on custom headers. This helps security researchers differentiate traffic from multiple browsers. All traffic in the Proxy HTTP History will be different colors based on how it is configured!  Just a vibe code!
 
 ## ✨ Features
 - 🚀 **Automatic Request Highlighting**: Colors requests based on custom headers.
