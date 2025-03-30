@@ -37,6 +37,10 @@ cd burp-traffic-auto-highligter
 - 🟠 **Primary Browser** → `orange`
 - 🔵 **Secondary Browser** → `cyan`
 
+## How it looks 
+![Screenshot 2025-03-30 222159](https://github.com/user-attachments/assets/c719e0c5-1f1c-496f-b0e8-1e3b76239969)
+
+
 ## 📜 License
 MIT License. Free to use and modify!
 
